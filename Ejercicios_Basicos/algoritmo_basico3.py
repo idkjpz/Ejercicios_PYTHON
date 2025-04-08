@@ -3,7 +3,7 @@
 
 incremento = 100
 
-numero_random = 3
+numero_random = 0.10
 
 resultado = numero_random + (numero_random * incremento) / 100
 
